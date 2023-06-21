@@ -1,0 +1,6 @@
+print("first")
+n = int (input())
+print("second")
+m = int (input())
+day = (m//n)+(m%n !=0)
+print ( round(day))
